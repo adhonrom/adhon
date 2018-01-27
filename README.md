@@ -1,4 +1,1 @@
-# adhon
-my personal web
-
-saat ini masih bingung apa yang bisa saya lakukan dengan git
+Repository ini berisi file-file untuk membuat website pribadi yang dihosting di Github-page
